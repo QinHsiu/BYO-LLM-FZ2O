@@ -60,4 +60,5 @@
 |Coding|CodeContests|[Competition-level code generation with alphacode](https://arxiv.org/abs/2203.07814)|Arxiv2022|[[Paper]](https://arxiv.org/abs/2203.07814)|
 |Coding|APPS|[Measuring coding challenge competence with apps](https://arxiv.org/abs/2105.09938)|NeurIPS2021|[[Paper]](https://arxiv.org/abs/2105.09938)|
 |Coding|DeepFix|[Deepfix: Fixing common c language errors by deep learning](https://paperswithcode.com/dataset/deepfix)|AAAI2017|[[Paper]](https://paperswithcode.com/dataset/deepfix)|
+|InstructEval|InstructEval|[INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models](https://arxiv.org/pdf/2306.04757.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2306.04757.pdf) ,[[Code]](https://github.com/declare-lab/instruct-eval)|
 |Others|others|[DataSet](https://github.com/QinHsiu/Awesome-Resources/tree/main/DataSet)|2023|[[Code]](https://github.com/QinHsiu/Awesome-Resources/tree/main/DataSet)|
