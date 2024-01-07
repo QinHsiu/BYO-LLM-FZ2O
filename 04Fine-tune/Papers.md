@@ -5,3 +5,4 @@
 |[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)|NeurIPS2023|[[Paper]](https://arxiv.org/abs/2305.14314)|
 |[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)|Arxiv2023|[[Paper]](https://arxiv.org/abs/2305.18290)|
 |[WAVECODER: WIDESPREAD AND VERSATILE ENHANCED INSTRUCTION TUNING WITH REFINED DATA GENERATION](https://arxiv.org/pdf/2312.14187.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.14187.pdf)|
+|[m-LoRA: High-Throughput LoRA Fine-Tuning of Large Language Models with a Single GPU](https://arxiv.org/abs/2312.02515)|Arxiv2023|[[Paper]](https://arxiv.org/abs/2312.02515) ,[[Code]](https://github.com/TUDB-Labs/multi-lora-fine-tune) ,[[Note]](https://mp.weixin.qq.com/s/8UoZy0egCui2grfU7QNm0A)|
