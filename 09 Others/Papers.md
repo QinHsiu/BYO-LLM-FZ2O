@@ -11,3 +11,4 @@
 |[STEMGEN](https://arxiv.org/pdf/2312.08723.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.08723.pdf)|
 |[Amphion](https://arxiv.org/pdf/2312.09911.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.09911.pdf)|
 |[Emu2](https://arxiv.org/abs/2312.13286)|Arxiv2023|[[Paper]](https://arxiv.org/abs/2312.13286) ,[[Code]](：https://github.com/baaivision/Emu/tree/main/Emu2) ,[[Note]](https://mp.weixin.qq.com/s/aAS1JZWqzlxIHCe5f5MNhw)|
+|[M2UGen](https://arxiv.org/pdf/2311.11255.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2311.11255.pdf) ,[[Code]](https://github.com/shansongliu/M2UGen/tree/main) ,[[Huggingface]](https://huggingface.co/M2UGen) ,[[Note]](https://mp.weixin.qq.com/s/tbn-7BA_UJC8NQ9Ht5KbLQ)|
