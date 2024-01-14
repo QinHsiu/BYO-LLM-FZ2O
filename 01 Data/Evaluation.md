@@ -61,4 +61,7 @@
 |Coding|APPS|[Measuring coding challenge competence with apps](https://arxiv.org/abs/2105.09938)|NeurIPS2021|[[Paper]](https://arxiv.org/abs/2105.09938)|
 |Coding|DeepFix|[Deepfix: Fixing common c language errors by deep learning](https://paperswithcode.com/dataset/deepfix)|AAAI2017|[[Paper]](https://paperswithcode.com/dataset/deepfix)|
 |InstructEval|InstructEval|[INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models](https://arxiv.org/pdf/2306.04757.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2306.04757.pdf) ,[[Code]](https://github.com/declare-lab/instruct-eval)|
+|Role-play|RoleBench|[dataset](https://huggingface.co/datasets/ZenMoore/RoleBench/tree/main/rolebench-zh/general)|opensource|[[data]](https://huggingface.co/datasets/ZenMoore/RoleBench/tree/main/rolebench-zh/general)|
+|Role-play|RoleEval|[RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models](https://arxiv.org/pdf/2312.16132.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.16132.pdf) ,[[Dataset]](https://github.com/Magnetic2014/RoleEval)|
+|Role-play|CharacterEval|[CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation](https://arxiv.org/abs/2401.01275)|Arxiv2024|[[Paper]](https://arxiv.org/abs/2401.01275) ,[[Dataset]](https://github.com/morecry/CharacterEval)|
 |Others|others|[DataSet](https://github.com/QinHsiu/Awesome-Resources/tree/main/DataSet)|2023|[[Code]](https://github.com/QinHsiu/Awesome-Resources/tree/main/DataSet)|
