@@ -1,7 +1,6 @@
 | Name| Description |Resources|
 | ------- | ----- | ------ |
-|langchain|Building applications with LLMs through composability |[[Code]](https://github.com/langchain-ai/langchain
-)|
+|langchain|Building applications with LLMs through composability |[[Code]](https://github.com/langchain-ai/langchain)|
 |generative_ai_with_langchain|Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.|[[Code]](https://github.com/benman1/generative_ai_with_langchain)|
 |llama_index|LlamaIndex (formerly GPT Index) is a data framework for your LLM applications|[[Code]](https://github.com/run-llama/llama_index)|
 |privateGPT|Interact with your documents using the power of GPT, 100% privately, no data leaks|[[Code]](https://github.com/imartinez/privateGPT)|
