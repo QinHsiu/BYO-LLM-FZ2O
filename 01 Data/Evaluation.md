@@ -1,4 +1,4 @@
-|Type| Name|Title | Year  |   Sources   |
+|Type| Name|Title | Year  |   Resources   |
 | ------- | -------  |------- | ----- | ------ | 
 |事实性Factuality基准评测|BoolQ|[BoolQ: Exploring the surprising difficulty of natural yes/no questions](https://aclanthology.org/N19-1300/)|NAACL2019|[[Paper]](https://aclanthology.org/N19-1300/)|
 |事实性Factuality基准评测|NaturalQuestions|[Natural questions: A benchmark for question answering research](https://aclanthology.org/Q19-1026)|NAACL2019|[[Paper]](https://aclanthology.org/Q19-1026)|
@@ -64,4 +64,13 @@
 |Role-play|RoleBench|[dataset](https://huggingface.co/datasets/ZenMoore/RoleBench/tree/main/rolebench-zh/general)|opensource|[[data]](https://huggingface.co/datasets/ZenMoore/RoleBench/tree/main/rolebench-zh/general)|
 |Role-play|RoleEval|[RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models](https://arxiv.org/pdf/2312.16132.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.16132.pdf) ,[[Dataset]](https://github.com/Magnetic2014/RoleEval)|
 |Role-play|CharacterEval|[CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation](https://arxiv.org/abs/2401.01275)|Arxiv2024|[[Paper]](https://arxiv.org/abs/2401.01275) ,[[Dataset]](https://github.com/morecry/CharacterEval)|
+|Hallucination|HaluEval|[HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2305.11747)|EMNLP2023|[[Paper]](https://arxiv.org/abs/2305.11747) ,[[Data]](https://github.com/RUCAIBox/HaluEval) ,[[HaluEval-2.0]](https://github.com/RUCAIBox/HaluEval-2.0)|
+|Holistic Evaluation|helm|[Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)||[[Paper]](https://arxiv.org/abs/2211.09110) ,[[Data]](https://github.com/stanford-crfm/helm)|
 |Others|others|[DataSet](https://github.com/QinHsiu/Awesome-Resources/tree/main/DataSet)|2023|[[Code]](https://github.com/QinHsiu/Awesome-Resources/tree/main/DataSet)|
+
+
+##### 其他资源
+|Name| Description|  Resources   |
+| ------- | -------  |------- |
+|awesome-LLM-benchmarks|Awesome LLM Benchmarks to evaluate the LLMs across text, code, image, audio, video and more.|[[Code]](https://github.com/wgwang/awesome-LLM-benchmarks)|
+|hallucination-leaderboard|Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents.|[[Code]](https://github.com/vectara/hallucination-leaderboard)|
