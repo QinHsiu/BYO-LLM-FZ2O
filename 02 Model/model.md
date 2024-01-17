@@ -33,7 +33,7 @@
 | ------- | ----- | ------ |
 |open-llms|open-llms|[[Code]](https://github.com/eugeneyan/open-llms)|
 |Awesome-Chinese-LLM|整理开源的中文大语言模型|[[Code]](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)|
-|awesome-LLMs-In-China|整理开源的中文大语言模型|[[Code]]https://github.com/wgwang/awesome-LLMs-In-China)|
+|awesome-LLMs-In-China|整理开源的中文大语言模型|[[Code]](https://github.com/wgwang/awesome-LLMs-In-China)|
 |Awesome-LLM|Awesome-LLM: a curated list of Large Language Model|[[Code]](https://github.com/Hannibal046/Awesome-LLM)|
 |awesome-pretrained-chinese-nlp-models|awesome-pretrained-chinese-nlp-models|[[Code]](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)|
 
