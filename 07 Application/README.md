@@ -39,3 +39,6 @@
 - [LLM-Agent-Paper-Digest](https://github.com/XueyangFeng/LLM-Agent-Paper-Digest)
 - [LLM在推荐侧的应用](https://mp.weixin.qq.com/s/DCKBbl4Wz__5dboBsFzG0w)
 - [构建自己的ChatBot](https://mp.weixin.qq.com/s/vWzTtBONvnzpuJ26hyik3Q)
+- [MULti-Agent](https://mp.weixin.qq.com/s/LlnpO8CviVmPh8z61ALCMg)
+- [SetFitABSA: 基于 SetFit 的少样本、方面级情感分析](https://mp.weixin.qq.com/s/rS8GznFRzznuef_MSX1SGg)
+- [GPT-4竟诊断出难倒17个医生的怪病](https://mp.weixin.qq.com/s/mP3nbjLZUTF4ZnSM5-U84A) ,[[Paper]](https://arxiv.org/pdf/2401.05654.pdf)

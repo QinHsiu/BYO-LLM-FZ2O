@@ -26,5 +26,5 @@
 |LLMsNineStoryDemonTower|分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。|[[Code]](https://github.com/km1994/LLMsNineStoryDemonTower/tree/main?tab=readme-ov-file)|
 |LLMs_interview_notes|该仓库主要记录 大模型（LLMs） 算法工程师相关的面试题|[[Code]](https://github.com/km1994/LLMs_interview_notes)|
 |BYO-LLM-FZ2O|Build Your Own LLM from Zero to One.|[[Code]](https://github.com/QinHsiu/BYO-LLM-FZ2O)|
-
+|llm-course|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|[[Code]](https://github.com/mlabonne/llm-course)|
 

@@ -4,4 +4,6 @@
 |[SWITCHHEAD: ACCELERATING TRANSFORMERS WITH MIXTURE-OF-EXPERTS ATTENTION](https://arxiv.org/pdf/2312.07987.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.07987.pdf) ,[[Code]](https://github.com/robertcsordas/moe_attention)|
 |[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)|Arxiv2023|[[Paper]](https://arxiv.org/abs/2309.17453) ,[[Code]](https://github.com/mit-han-lab/streaming-llm)|
 |[LLM Augmented LLMs: Expanding Capabilities through Composition](https://arxiv.org/abs/2401.02412)|Arxiv2024|[[Paper]](https://arxiv.org/abs/2401.02412) ,[[Code]](https://github.com/lucidrains/CALM-pytorch)|
-
+|[Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://arxiv.org/pdf/2401.04658.pdf)|Arxiv2024|[[Paper]](https://arxiv.org/pdf/2401.04658.pdf) ,[[Code]](https://github.com/OpenNLPLab/lightning-attention) ,[[Note]](https://mp.weixin.qq.com/s/o-F-jA43eF9z9CMoOLPgcA)|
+|[Multitask-Model-Selector](https://arxiv.org/abs/2308.06262)|NeurIPS2023|[[Paper]](https://arxiv.org/abs/2308.06262) ,[[Code]](https://github.com/OpenGVLab/Multitask-Model-Selector) ,[[Note]](https://mp.weixin.qq.com/s/wjpQHfXztZHdbI15LYQ-lA)|
+|[Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing](https://arxiv.org/abs/2306.12929)|Arxiv2023|[[Paper]](https://arxiv.org/abs/2306.12929) ,[[Note]](https://mp.weixin.qq.com/s/boC4DEWu3Loi8A03U_OmSA)|
