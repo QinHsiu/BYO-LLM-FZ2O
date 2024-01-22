@@ -65,7 +65,7 @@
 |Role-play|RoleEval|[RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models](https://arxiv.org/pdf/2312.16132.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.16132.pdf) ,[[Dataset]](https://github.com/Magnetic2014/RoleEval)|
 |Role-play|CharacterEval|[CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation](https://arxiv.org/abs/2401.01275)|Arxiv2024|[[Paper]](https://arxiv.org/abs/2401.01275) ,[[Dataset]](https://github.com/morecry/CharacterEval)|
 |Hallucination|HaluEval|[HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2305.11747)|EMNLP2023|[[Paper]](https://arxiv.org/abs/2305.11747) ,[[Data]](https://github.com/RUCAIBox/HaluEval) ,[[HaluEval-2.0]](https://github.com/RUCAIBox/HaluEval-2.0)|
-|Holistic Evaluation|helm|[Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)||[[Paper]](https://arxiv.org/abs/2211.09110) ,[[Data]](https://github.com/stanford-crfm/helm)|
+|Holistic Evaluation|helm|[Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)|Arxiv2023|[[Paper]](https://arxiv.org/abs/2211.09110) ,[[Data]](https://github.com/stanford-crfm/helm)|
 |Others|others|[DataSet](https://github.com/QinHsiu/Awesome-Resources/tree/main/DataSet)|2023|[[Code]](https://github.com/QinHsiu/Awesome-Resources/tree/main/DataSet)|
 
 
