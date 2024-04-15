@@ -1,3 +1,11 @@
+<!--
+ * @Author: qinxiuyuan
+ * @Date: 2024-04-15 19:54:15
+ * @LastEditTime: 2024-04-15 19:54:15
+ * @FilePath: /SFT/qinxiuyuan/workplace/Learning/BYO-LLM-FZ2O/07 Application/Papers.md
+ * @Description: 
+ * @Email: qinhsiu@gmail.com
+-->
 | Title| Year |Resources|
 | ------- | ----- | ------ |
 |[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997v1.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.10997v1.pdf)|
@@ -8,3 +16,4 @@
 Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf)|NeurIPS2023|[[Paper]](https://arxiv.org/pdf/2303.17580.pdf) ,[[Code]](https://github.com/microsoft/JARVIS)|
 |[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)|Arxiv2023|[[paper]](https://arxiv.org/abs/2309.07864) ,[[Code]](https://github.com/WooooDyy/LLM-Agent-Paper-List)|
 |[AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.](https://arxiv.org/abs/2312.13771)|Arxiv2023|[[Paper]](https://arxiv.org/abs/2312.13771) ,[[Code]](https://github.com/mnotgod96/AppAgent)|
+|[RepoAgent](https://arxiv.org/abs/2402.16667)|Arxiv2024|[[Code]](https://github.com/OpenBMB/RepoAgent),[[Note]](https://mp.weixin.qq.com/s/gSgLLXD4u9Ip7Vgq6IjOsw)|

@@ -1,3 +1,7 @@
+<!--
+ * @Author: qinhsiu
+ * @Email: qinhsiu@gmail.com
+-->
 | Title| Year |Resources|
 | ------- | ----- | ------ |
 |[Original Implementation of Prompt Tuning from Lester](https://aclanthology.org/2021.emnlp-main.243/)|Arxiv2021|[[Code]](https://github.com/google-research/prompt-tuning)|
@@ -16,3 +20,4 @@
 |[Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)|Arxiv2024|[[Paper]](https://arxiv.org/abs/2401.10020) ,[[Note]](https://mp.weixin.qq.com/s/tBVosNn07shQZxfvtSlaOw)|
 |[Secrets of RLHF in Large Language Models Part II: Reward Modeling](https://arxiv.org/abs/2401.06080)|Arxiv2024|[[Paper]](https://arxiv.org/abs/2401.06080) ,[[Code]](https://github.com/OpenLMLab/MOSS-RLHF) ,[[Note]](https://mp.weixin.qq.com/s/IjPknZQcpMtAlCQFipqIbw)|
 |[A Novel Prompt-tuning Method: Incorporating Scenario-specific Concepts into a Verbalizer](https://arxiv.org/abs/2401.05204)|Arxiv2024|[[Paper]](https://arxiv.org/abs/2401.05204) ,[[Note]](https://mp.weixin.qq.com/s/YmtXUB4HWpjM6qhKEtimbQ)|
+|[PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models](https://arxiv.org/pdf/2404.02948.pdf)|Arxiv2024|[[Code]](https://github.com/GraphPKU/PiSSA),[[psft]](https://github.com/fxmeng/peft),[[Note]](https://mp.weixin.qq.com/s/EQgaHqNyNT2gvp5q4ro1xQ)|

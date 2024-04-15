@@ -1,3 +1,11 @@
+<!--
+ * @Author: qinxiuyuan
+ * @Date: 2024-04-15 19:57:07
+ * @LastEditTime: 2024-04-15 19:57:08
+ * @FilePath: /SFT/qinxiuyuan/workplace/Learning/BYO-LLM-FZ2O/05 Inference/Papers.md
+ * @Description: 
+ * @Email: qinhsiu@gmail.com
+-->
 | Title| Year |Resources|
 | ------- | ----- | ------ |
 |[LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)|Arxiv2023|[[Paper]](https://arxiv.org/pdf/2312.11514.pdf)|
@@ -9,3 +17,4 @@
 |[Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234)|Arxiv2024|[[Paper]](https://arxiv.org/abs/2312.15234) ,[[Note]](https://mp.weixin.qq.com/s/Uue0SxH6W_tI8K4Zb0igLQ)|
 |[FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs](https://arxiv.org/pdf/2401.03868.pdf)|Arxiv2024|[[Paper]](https://arxiv.org/pdf/2401.03868.pdf) ,[[Note]](https://mp.weixin.qq.com/s/FbM4dD8rX4sAXg157-2D2Q)|
 |[MM-REACT](https://arxiv.org/abs/2303.11381)|Arxiv2023|[[Paper]](https://arxiv.org/abs/2303.11381) ,[[Code]](https://github.com/microsoft/MM-REACT)|
+|[Adaptive-RAG](https://arxiv.org/abs/2403.14403v2)|Arxiv2024|[[Code]](https://github.com/starsuzi/Adaptive-RAG),[[Note]](https://mp.weixin.qq.com/s/Q4t6pG1dRYvbUVOA931rsQ)|

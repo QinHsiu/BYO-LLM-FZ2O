@@ -1,3 +1,8 @@
+<!--
+ * @Author: qinhsiu
+ * @Email: qinhsiu@gmail.com
+-->
+
 | Title| Year |Paper|
 | ------- | ----- | ------ |
 |[ConvNets Match Vision Transformers at Scale](https://arxiv.org/abs/2310.16764)|CVPR2023|[[Paper]](https://arxiv.org/abs/2310.16764)|
@@ -15,3 +20,5 @@
 |[Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models](https://arxiv.org/abs/2310.03059)|AAAI2024|[[Paper]](https://arxiv.org/abs/2310.03059) ,[[Code]](https://github.com/Ivan-Tang-3D/Point-PEFT) ,[[Note]](https://mp.weixin.qq.com/s/9ez2y2JicUC4DB0SiM5f6g)|
 |[Turning Dust into Gold: Distilling Complex Reasoning Capabilities from LLMs by Leveraging Negative Data](https://arxiv.org/pdf/2312.12832.pdf)|AAAI2024|[[Paper]](https://arxiv.org/pdf/2312.12832.pdf) ,[[Code]](https://github.com/Yiwei98/TDG) ,[[Note]](https://mp.weixin.qq.com/s/dCQL3UcF810rX1ezGDxvRg)|
 |[Structure-CLIP](https://arxiv.org/pdf/2305.06152.pdf)|AAAI2024|[[Paper]](https://arxiv.org/pdf/2305.06152.pdf) ,[[Code]](https://github.com/zjukg/Structure-CLIP) ,[[Note]](https://mp.weixin.qq.com/s/F6eJfKPx_02z8x_RvXKYDA)|
+|[Awesome-Multimodal-Large-Language-Models](https://arxiv.org/pdf/2306.13549.pdf)|2024|[[Code]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models),[[Note]](https://mp.weixin.qq.com/s/iYyLOvi8HQR3V6xAjO5q8A)|
+|[PromptKD](https://arxiv.org/abs/2403.02781)|Arxiv2024|[[Code]](https://github.com/zhengli97/PromptKD),[[Note]](https://mp.weixin.qq.com/s/Eub9QELtA91bdYNkzaZfIQ)|
