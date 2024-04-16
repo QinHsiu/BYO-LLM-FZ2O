@@ -1,9 +1,5 @@
 <!--
- * @Author: qinxiuyuan
- * @Date: 2024-04-15 19:54:15
- * @LastEditTime: 2024-04-15 19:54:15
- * @FilePath: /SFT/qinxiuyuan/workplace/Learning/BYO-LLM-FZ2O/07 Application/Papers.md
- * @Description: 
+ * @Author: qinhsiu
  * @Email: qinhsiu@gmail.com
 -->
 | Title| Year |Resources|

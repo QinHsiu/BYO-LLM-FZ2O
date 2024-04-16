@@ -1,9 +1,5 @@
 <!--
- * @Author: qinxiuyuan
- * @Date: 2024-04-15 19:57:07
- * @LastEditTime: 2024-04-15 19:57:08
- * @FilePath: /SFT/qinxiuyuan/workplace/Learning/BYO-LLM-FZ2O/05 Inference/Papers.md
- * @Description: 
+ * @Author: qinhsiu
  * @Email: qinhsiu@gmail.com
 -->
 | Title| Year |Resources|
