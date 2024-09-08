@@ -15,3 +15,4 @@
 |LLM推理进展|[Note](https://mp.weixin.qq.com/s/YQ3KygeKvoAJLJnqZFZLyw)|
 |LLama3详解|[Note](https://mp.weixin.qq.com/s/Gcsq4smzLsjWgsb6Ulcd_A)|
 |Scaling Law|[Note](https://mp.weixin.qq.com/s/aeh6kudCXqkCfd452vUnPw)|
+|qwen2技术报告|[Note](https://mp.weixin.qq.com/s/Vd3Qn20wFsAoM3wFgQJmpQ)|
