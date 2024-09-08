@@ -4,6 +4,7 @@
 -->
 | Title| Year |Resources|
 | ------- | ----- | ------ |
+|[MoDS: Model-oriented Data Selection for Instruction Tuning](https://arxiv.org/pdf/2311.15653)|Arxiv2024|[Code](https://github.com/CASIA-LM/MoDS), [Note](https://mp.weixin.qq.com/s/aeUOoA8QL1unrB0G6mvK4g)|
 |[Original Implementation of Prompt Tuning from Lester](https://aclanthology.org/2021.emnlp-main.243/)|Arxiv2021|[[Code]](https://github.com/google-research/prompt-tuning)|
 |[An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks](https://arxiv.org/abs/2110.07602)|EMNLP2023|[[Paper]](https://arxiv.org/abs/2110.07602) ,[[Code]](https://github.com/THUDM/P-tuning-v2)|
 |[Black-Box Tuning for Language-Model-as-a-Service](https://arxiv.org/abs/2201.03514)|ICML2022|[[Paper]](https://arxiv.org/abs/2201.03514) ,[[Code]](https://github.com/txsun1997/Black-Box-Tuning)|
