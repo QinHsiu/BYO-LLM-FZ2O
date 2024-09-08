@@ -42,3 +42,4 @@
 - [MULti-Agent](https://mp.weixin.qq.com/s/LlnpO8CviVmPh8z61ALCMg)
 - [SetFitABSA: 基于 SetFit 的少样本、方面级情感分析](https://mp.weixin.qq.com/s/rS8GznFRzznuef_MSX1SGg)
 - [GPT-4竟诊断出难倒17个医生的怪病](https://mp.weixin.qq.com/s/mP3nbjLZUTF4ZnSM5-U84A) ,[[Paper]](https://arxiv.org/pdf/2401.05654.pdf)
+- [电商+LLM探索](https://mp.weixin.qq.com/s/_zINW_zffFxHOq_tRpyLaQ)
