@@ -33,4 +33,5 @@
 - [PEFT技术概述](https://mp.weixin.qq.com/s/tyVfJc_ZUZgfmNvD2FGQTw)
 - [LLaMa微调实践](https://mp.weixin.qq.com/s/cgW0xMQNn7Q6N92O_4GZPw)
 - [RLHF技术及其替代技术](https://mp.weixin.qq.com/s/Cf7fTJiHKDMGKo_VEj_wGA)
+- [关于pt和post-t的思考](https://mp.weixin.qq.com/s/sFdnWwWXouU2ZPbf5GoXhA)
 - [关于Post-training的一点思考](https://mp.weixin.qq.com/s/dvyvKExTl5t9aQDPd4hDJg)
