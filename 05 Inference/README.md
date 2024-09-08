@@ -12,4 +12,5 @@
 - [快速入门LLM的推理过程](https://mp.weixin.qq.com/s/T38OaA9A-vfxIuqaJkiv5g)
 - [LangChain技术总结](https://mp.weixin.qq.com/s/eEZDVXlcw_ulWUCEE98Gkw)
 - [RAG技术总览](https://mp.weixin.qq.com/s/xjMOePFuLAQeI9icajYzXQ)
+- [RAG优化方案](https://mp.weixin.qq.com/s/f8gXhct6nJQagk8w4TPoyA)
 - [Continuous Batching详解](https://mp.weixin.qq.com/s/77vlWgN6WkL3jL-6AJ0VAg)
