@@ -35,3 +35,4 @@
 - [RLHF技术及其替代技术](https://mp.weixin.qq.com/s/Cf7fTJiHKDMGKo_VEj_wGA)
 - [关于pt和post-t的思考](https://mp.weixin.qq.com/s/sFdnWwWXouU2ZPbf5GoXhA)
 - [关于Post-training的一点思考](https://mp.weixin.qq.com/s/dvyvKExTl5t9aQDPd4hDJg)
+- [合成数据的思考](https://mp.weixin.qq.com/s/k_lpWa1FCnE6gj6qz4r7Jg)
