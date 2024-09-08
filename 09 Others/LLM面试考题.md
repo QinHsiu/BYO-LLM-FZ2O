@@ -9,3 +9,4 @@
 |分词方法的原理以及其代码实现|[Note](https://mp.weixin.qq.com/s/sw_nEgpCQ8gC36HDn8SXhA)|
 |什么是RLHF|[Note](https://mp.weixin.qq.com/s/Aw-WA0FZU8N-lFiyMBZwdA)|
 |大模型PTO|[Note](https://mp.weixin.qq.com/s/1yVK5SuVzZBqzrZUhosLSg)|
+|LLM微调策略|[Note](https://mp.weixin.qq.com/s/JH3Qk-c-HOe0k4UMuExAIg)|
