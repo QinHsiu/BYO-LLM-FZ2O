@@ -17,3 +17,4 @@
 |Scaling Law|[Note](https://mp.weixin.qq.com/s/aeh6kudCXqkCfd452vUnPw)|
 |qwen2技术报告|[Note](https://mp.weixin.qq.com/s/Vd3Qn20wFsAoM3wFgQJmpQ)|
 |int8 vs FP8|[Note](https://mp.weixin.qq.com/s/mWBIQLg1rkbrV_mr1FiGXg)|
+|多模态模型部署|[Note](https://mp.weixin.qq.com/s/U1yg3qsJYfpFTmSZtM9lpA)|
