@@ -1,4 +1,9 @@
 
-| 问题| 资源 |
+<!--
+ * @Author: qinhsiu
+ * @Email: qinhsiu@gmail.com
+-->
+
+| Title| Sources |
 | ------- | ----- | 
 | 为什么 Bert 的三个 Embedding 可以进行相加？| [Note](https://mp.weixin.qq.com/s/7btjjlicRkIUgg8yGrqdTw) |
