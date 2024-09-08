@@ -1,5 +1,6 @@
 | Name| Owner |Resources|
 | ------- | ----- | ------ |
+|[Mini-Monkey](https://arxiv.org/pdf/2408.02034)|hust|[[Code]](https://github.com/Yuliang-Liu/Monkey) [[Note]](https://mp.weixin.qq.com/s/aZZU32p4o32TdmZLHqa22A)|
 |P5|jeykigung|[[Code]](https://github.com/jeykigung/P5)|
 |EcomGPT|Alibaba-NLP|[[Code]](https://github.com/Alibaba-NLP/EcomGPT)|
 |Yuan-2.0|IEIT-Yuan|[[Code]](https://github.com/IEIT-Yuan/Yuan-2.0)|
