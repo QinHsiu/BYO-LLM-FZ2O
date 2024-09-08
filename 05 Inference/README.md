@@ -16,3 +16,4 @@
 - [RAG优化方案](https://mp.weixin.qq.com/s/f8gXhct6nJQagk8w4TPoyA)
 - [15种高级RAG技术](https://mp.weixin.qq.com/s/QmqERxtYMIvoKdhe2nN4dw)
 - [Continuous Batching详解](https://mp.weixin.qq.com/s/77vlWgN6WkL3jL-6AJ0VAg)
+- [LLM推理发展](https://mp.weixin.qq.com/s/8Xah6E0m5WeusGwqwjEifA)
