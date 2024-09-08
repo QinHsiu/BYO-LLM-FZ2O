@@ -25,6 +25,7 @@
 |TigerBot|TigerBot|[[Code]](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|
 |codellama|facebookresearch|[[Code]](https://github.com/facebookresearch/codellama)|
 |WriteGPT|Turing-Project|[[Code]](https://github.com/Turing-Project/WriteGPT)|
+|MiniCPM 3.0 |面壁智能|[[Code]](https://github.com/OpenBMB/MiniCPM) [HF](https://huggingface.co/openbmb/MiniCPM3-4B)|
 
 
 ##### 其他资源
