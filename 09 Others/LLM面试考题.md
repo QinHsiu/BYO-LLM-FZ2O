@@ -10,3 +10,4 @@
 |什么是RLHF|[Note](https://mp.weixin.qq.com/s/Aw-WA0FZU8N-lFiyMBZwdA)|
 |大模型PTO|[Note](https://mp.weixin.qq.com/s/1yVK5SuVzZBqzrZUhosLSg)|
 |LLM微调策略|[Note](https://mp.weixin.qq.com/s/JH3Qk-c-HOe0k4UMuExAIg)|
+|LLM二次开发|[Note](https://mp.weixin.qq.com/s/3dr7TnPHXTn4feES14He9g)|
