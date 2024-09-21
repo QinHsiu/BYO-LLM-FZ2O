@@ -68,6 +68,12 @@
 
 - 构造数据
   - 《SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions》
+  - paper：https://arxiv.org/abs/2409.03810
+  - code：https://github.com/banksy23/XCoder
+  - Data-HF：https://huggingface.co/datasets/banksy235/XCoder-80K
+  - Note：https://mp.weixin.qq.com/s/57gziduRY-H4E3-Da6NgWw
+
+  - 《SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions》
   - paper：https://arxiv.org/pdf/2212.10560.pdf
   - code：https://github.com/yizhongw/self-instruct
   - 步骤：指令生成-实例生成-过滤&后处理

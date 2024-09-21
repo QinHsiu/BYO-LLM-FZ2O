@@ -35,6 +35,7 @@
 
 ##### 其他资源
 
+- [LLM在教育场景中的应用](https://mp.weixin.qq.com/s/lEfHSObJiMfZoDUieYl6Lw)
 - [LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
 - [LLM-Agent-Paper-Digest](https://github.com/XueyangFeng/LLM-Agent-Paper-Digest)
 - [LLM在推荐侧的应用](https://mp.weixin.qq.com/s/DCKBbl4Wz__5dboBsFzG0w)
