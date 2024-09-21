@@ -27,4 +27,5 @@
 |LLMs_interview_notes|该仓库主要记录 大模型（LLMs） 算法工程师相关的面试题|[[Code]](https://github.com/km1994/LLMs_interview_notes)|
 |BYO-LLM-FZ2O|Build Your Own LLM from Zero to One.|[[Code]](https://github.com/QinHsiu/BYO-LLM-FZ2O)|
 |llm-course|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|[[Code]](https://github.com/mlabonne/llm-course)|
+|Strawberry|A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.|[[Code]](https://github.com/hijkzzz/Awesome-LLM-Strawberry),[[Note]](https://mp.weixin.qq.com/s/sPYeM5LbfAwyHUxbQ78Vsg)|
 

@@ -19,3 +19,8 @@
 |int8 vs FP8|[Note](https://mp.weixin.qq.com/s/mWBIQLg1rkbrV_mr1FiGXg)|
 |多模态模型部署|[Note](https://mp.weixin.qq.com/s/U1yg3qsJYfpFTmSZtM9lpA)|
 |step-dpo|[Note](https://mp.weixin.qq.com/s/9ZWRQYPT0zxIrsPFih9Ilw)|
+|Tokenizer|[Note](https://mp.weixin.qq.com/s/cgPd3c9htP53-b1LFj6fsA)|
+|LLM面试100问|[Note](https://mp.weixin.qq.com/s/hPtrXCsHQBaYziX3_e63pw)|
+|如何实现千卡训练|[Note](https://mp.weixin.qq.com/s/y5Wj04VoG_6iQU1-A3i6ew)
+|
+
