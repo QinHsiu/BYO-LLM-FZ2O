@@ -18,7 +18,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="27">Publicly <br>Accessbile</td>
+    <td class="tg-nrix" align="center" rowspan="33">Publicly <br>Accessbile</td>
     <td class="tg-baqh" align="center">T5</td>
     <td class="tg-0lax" align="center">2019/10</td>
     <td class="tg-baqh" align="center">11</td>
@@ -181,7 +181,43 @@
     <td class="tg-0lax" align="center"><a href="https://mistral.ai/news/announcing-mistral-7b/">Blog</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="31">Closed<br>Source</td>
+    <td class="tg-baqh" align="center">Qwen2.5</td>
+    <td class="tg-0lax" align="center">2024/04</td>
+    <td class="tg-baqh" align="center">72</td>
+    <td class="tg-0lax" align="center"><a href="https://github.com/QwenLM/Qwen2.5">GitHub</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">DeepSeek-V2</td>
+    <td class="tg-0lax" align="center">2024/05</td>
+    <td class="tg-baqh" align="center">236</td>
+    <td class="tg-0lax" align="center"><a href="https://github.com/deepseek-ai/DeepSeek-V2">GitHub</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">LLaMA3</td>
+    <td class="tg-0lax" align="center">2024/04</td>
+    <td class="tg-baqh" align="center">405</td>
+    <td class="tg-0lax" align="center"><a href="https://github.com/meta-llama/llama3">GitHub</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Mixtral-8x7B</td>
+    <td class="tg-0lax" align="center">2023/12</td>
+    <td class="tg-baqh" align="center">47</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2401.04088.pdf">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Gemma</td>
+    <td class="tg-0lax" align="center">2024/02</td>
+    <td class="tg-baqh" align="center">27</td>
+    <td class="tg-0lax" align="center"><a href="https://github.com/google/gemma_pytorch">GitHub</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Phi-3</td>
+    <td class="tg-0lax" align="center">2024/04</td>
+    <td class="tg-baqh" align="center">14</td>
+    <td class="tg-0lax" align="center"><a href="https://github.com/microsoft/Phi-3-mini">GitHub</a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="32">Closed<br>Source</td>
     <td class="tg-baqh" align="center">GShard</td>
     <td class="tg-0lax" align="center">2020/01</td>
     <td class="tg-baqh" align="center" align="center">600</td>
@@ -354,18 +390,34 @@
     <td class="tg-baqh" align="center">1085</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.10845">Paper</a></td>
   </tr>
+  <tr>
+    <td class="tg-baqh" align="center">GPT-4o</td>
+    <td class="tg-0lax" align="center">2024/05</td>
+    <td class="tg-baqh" align="center">-</td>
+    <td class="tg-0lax" align="center"><a href="https://openai.com/index/hello-gpt-4o/">Blog</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Claude 3</td>
+    <td class="tg-0lax" align="center">2024/03</td>
+    <td class="tg-baqh" align="center">-</td>
+    <td class="tg-0lax" align="center"><a href="https://www.anthropic.com/claude">Blog</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Gemini 1.5</td>
+    <td class="tg-0lax" align="center">2024/02</td>
+    <td class="tg-baqh" align="center">-</td>
+    <td class="tg-0lax" align="center"><a href="https://deepmind.google/technologies/gemini/">Blog</a></td>
+  </tr>
 </tbody>
 </table>
 
-
 ##### 其他资源
 
-| 资源描述      | 来源   | 相关资源                                                                       |
-| ------------- | ------ | ------------------------------------------------------------------------------ |
+| 资源描述      | 来源   | 相关资源                                                                    |
+| ------------- | ------ | --------------------------------------------------------------------------- |
 | LLM survey    | github | [source](https://github.com/RUCAIBox/LLMSurvey)                                |
 | LLM最新进展   | 微信   | [LLM最新进展](https://mp.weixin.qq.com/s/IkqwITZ_nqnCOAPLX7xv7A)               |
 | MOE发展史     | 微信   | [MOE发展史](https://mp.weixin.qq.com/s/LoKmxYB9K3X4vpTg-STVUg)                 |
 | MOE提升表现   | 微信   | [MOE让8个7B模型效果逼近70B](https://mp.weixin.qq.com/s/UAytYCGGgiYTnYiBJHGHTQ) |
 | MOE代码解读   | 微信   | [MOE代码解读](https://mp.weixin.qq.com/s/PaHmvwbXcZJ3Cn-2NMcLxA)               |
 | LLaMA代码解读 | 微信   | [LLaMA代码解读](https://mp.weixin.qq.com/s/oO7nkY0Fcgd4Y7en3Sx2Xw)             |
-

@@ -28,4 +28,9 @@
 |BYO-LLM-FZ2O|Build Your Own LLM from Zero to One.|[[Code]](https://github.com/QinHsiu/BYO-LLM-FZ2O)|
 |llm-course|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|[[Code]](https://github.com/mlabonne/llm-course)|
 |Strawberry|A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.|[[Code]](https://github.com/hijkzzz/Awesome-LLM-Strawberry),[[Note]](https://mp.weixin.qq.com/s/sPYeM5LbfAwyHUxbQ78Vsg)|
+|Qwen|通义千问系列大模型|[[Code]](https://github.com/QwenLM/Qwen)|
+|DeepSeek|DeepSeek系列大模型|[[Code]](https://github.com/deepseek-ai/DeepSeek-V2)|
+|LLaMA3|Meta开源的最新LLaMA模型|[[Code]](https://github.com/meta-llama/llama3)|
+|OpenWebUI|可扩展、功能丰富且用户友好的自托管WebUI，旨在完全替代OpenAI的UI|[[Code]](https://github.com/open-webui/open-webui)|
+|LLMDataHub|大语言模型数据资源中心|[[Code]](https://github.com/Zjh-819/LLMDataHub)|
 
