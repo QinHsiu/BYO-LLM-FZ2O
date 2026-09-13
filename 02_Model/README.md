@@ -1,6 +1,6 @@
 # LLM之核心-模型
 
-![avator](../10%20Assets/Model/fig2_updated_time_line.png)
+![avator](../10_Assets/Model/fig2_updated_time_line.png)
 
 ### LLM 列表
 

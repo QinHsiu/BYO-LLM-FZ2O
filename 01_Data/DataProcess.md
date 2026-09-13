@@ -3,10 +3,10 @@
 ##### pretrain
 
 - 预训练数据
-  ![avator](../10%20Assets/Data/data.png)
+  ![avator](../10_Assets/Data/data.png)
   - 清洗预训练数据流程
   - 清洗一般步骤：质量过滤-去重-隐私删除-Tokenization
-    ![avator](../10%20Assets/Data/process.jpg)
+    ![avator](../10_Assets/Data/process.jpg)
   - 质量过滤
   - 基于分类器
     
@@ -53,7 +53,7 @@
     - FastText：https://github.com/topics/fasttext?o=asc&s=forks
     - CC-Net：https://github.com/facebookresearch/cc_net
     - MinHashLSH：https://github.com/topics/minhash-lsh-algorithm
-      ![avator](../10%20Assets/Data/pretrain.png)
+      ![avator](../10_Assets/Data/pretrain.png)
   - 案例：CulturaX数据集清洗
     
     - paper：https://arxiv.org/pdf/2309.09400.pdf
@@ -155,7 +155,7 @@
     - paper：https://arxiv.org/pdf/2305.10429v2.pdf
     - code：https://github.com/sangmichaelxie/doremi
     - 核心：提出基于域权重的算法，使用域上的组分布鲁棒优化训练一个小型代理模型，用于生成域权重，然后根据域权重新训练一个更大的模型
-      ![avator](../10%20Assets/Data/DoReMi.png)
+      ![avator](../10_Assets/Data/DoReMi.png)
   - Instruction Mining: High-Quality Instruction Data Selection for Large  Language Models
     - paper：https://arxiv.org/pdf/2307.06290v1.pdf
     - 核心：一种线性质量规则和评估指标
